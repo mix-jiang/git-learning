@@ -1,3 +1,4 @@
-hi there
-txt
-add the 3rd line
+readme text
+line 1
+line 2
+line 3
